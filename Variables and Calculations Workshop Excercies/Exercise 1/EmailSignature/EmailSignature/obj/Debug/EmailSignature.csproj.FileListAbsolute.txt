@@ -1,0 +1,7 @@
+C:\Users\bi78ws\Desktop\Variables and Calculations Workshop Excercies\Exercise 1\EmailSignature\EmailSignature\obj\Debug\EmailSignature.csproj.AssemblyReference.cache
+C:\Users\bi78ws\Desktop\Variables and Calculations Workshop Excercies\Exercise 1\EmailSignature\EmailSignature\obj\Debug\EmailSignature.csproj.CoreCompileInputs.cache
+C:\Users\bi78ws\Desktop\Variables and Calculations Workshop Excercies\Exercise 1\EmailSignature\EmailSignature\bin\Debug\EmailSignature.exe.config
+C:\Users\bi78ws\Desktop\Variables and Calculations Workshop Excercies\Exercise 1\EmailSignature\EmailSignature\bin\Debug\EmailSignature.exe
+C:\Users\bi78ws\Desktop\Variables and Calculations Workshop Excercies\Exercise 1\EmailSignature\EmailSignature\bin\Debug\EmailSignature.pdb
+C:\Users\bi78ws\Desktop\Variables and Calculations Workshop Excercies\Exercise 1\EmailSignature\EmailSignature\obj\Debug\EmailSignature.exe
+C:\Users\bi78ws\Desktop\Variables and Calculations Workshop Excercies\Exercise 1\EmailSignature\EmailSignature\obj\Debug\EmailSignature.pdb
