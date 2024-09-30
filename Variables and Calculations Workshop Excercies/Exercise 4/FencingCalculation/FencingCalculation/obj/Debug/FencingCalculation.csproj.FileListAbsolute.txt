@@ -1,0 +1,7 @@
+C:\Users\bi78ws\Desktop\Intro to Programming\Sunderland-Uni-Intro-to-Programming\Variables and Calculations Workshop Excercies\Exercise 4\FencingCalculation\FencingCalculation\bin\Debug\FencingCalculation.exe.config
+C:\Users\bi78ws\Desktop\Intro to Programming\Sunderland-Uni-Intro-to-Programming\Variables and Calculations Workshop Excercies\Exercise 4\FencingCalculation\FencingCalculation\bin\Debug\FencingCalculation.exe
+C:\Users\bi78ws\Desktop\Intro to Programming\Sunderland-Uni-Intro-to-Programming\Variables and Calculations Workshop Excercies\Exercise 4\FencingCalculation\FencingCalculation\bin\Debug\FencingCalculation.pdb
+C:\Users\bi78ws\Desktop\Intro to Programming\Sunderland-Uni-Intro-to-Programming\Variables and Calculations Workshop Excercies\Exercise 4\FencingCalculation\FencingCalculation\obj\Debug\FencingCalculation.csproj.AssemblyReference.cache
+C:\Users\bi78ws\Desktop\Intro to Programming\Sunderland-Uni-Intro-to-Programming\Variables and Calculations Workshop Excercies\Exercise 4\FencingCalculation\FencingCalculation\obj\Debug\FencingCalculation.csproj.CoreCompileInputs.cache
+C:\Users\bi78ws\Desktop\Intro to Programming\Sunderland-Uni-Intro-to-Programming\Variables and Calculations Workshop Excercies\Exercise 4\FencingCalculation\FencingCalculation\obj\Debug\FencingCalculation.exe
+C:\Users\bi78ws\Desktop\Intro to Programming\Sunderland-Uni-Intro-to-Programming\Variables and Calculations Workshop Excercies\Exercise 4\FencingCalculation\FencingCalculation\obj\Debug\FencingCalculation.pdb
