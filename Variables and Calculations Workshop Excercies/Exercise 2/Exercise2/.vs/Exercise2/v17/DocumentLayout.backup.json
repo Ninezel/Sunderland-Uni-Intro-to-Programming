@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bi78ws\\Desktop\\Intro to Programming\\Sunderland-Uni-Intro-to-Programming\\Variables and Calculations Workshop Excercies\\Exercise 2\\Exercise2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCDE076-61EA-4336-8C61-1157F5D86CC3}|Exercise2\\Exercise2.csproj|c:\\users\\bi78ws\\desktop\\intro to programming\\sunderland-uni-intro-to-programming\\variables and calculations workshop excercies\\exercise 2\\exercise2\\exercise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCDE076-61EA-4336-8C61-1157F5D86CC3}|Exercise2\\Exercise2.csproj|solutionrelative:exercise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bi78ws\\Desktop\\Intro to Programming\\Sunderland-Uni-Intro-to-Programming\\Variables and Calculations Workshop Excercies\\Exercise 2\\Exercise2\\Exercise2\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise2\\Program.cs",
+              "ToolTip": "C:\\Users\\bi78ws\\Desktop\\Intro to Programming\\Sunderland-Uni-Intro-to-Programming\\Variables and Calculations Workshop Excercies\\Exercise 2\\Exercise2\\Exercise2\\Program.cs",
+              "RelativeToolTip": "Exercise2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:50:15.716Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

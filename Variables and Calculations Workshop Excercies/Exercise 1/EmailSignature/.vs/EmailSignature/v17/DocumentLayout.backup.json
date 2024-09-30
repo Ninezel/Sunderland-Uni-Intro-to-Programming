@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bi78ws\\Desktop\\Variables and Calculations Workshop Excercies\\Exercise 1\\EmailSignature\\",
+  "WorkspaceRootPath": "C:\\Users\\bi78ws\\Desktop\\Intro to Programming\\Sunderland-Uni-Intro-to-Programming\\Variables and Calculations Workshop Excercies\\Exercise 1\\EmailSignature\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76DEE390-8FFA-420C-B073-F82736B77612}|EmailSignature\\EmailSignature.csproj|c:\\users\\bi78ws\\desktop\\variables and calculations workshop excercies\\exercise 1\\emailsignature\\emailsignature\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{76DEE390-8FFA-420C-B073-F82736B77612}|EmailSignature\\EmailSignature.csproj|c:\\users\\bi78ws\\desktop\\intro to programming\\sunderland-uni-intro-to-programming\\variables and calculations workshop excercies\\exercise 1\\emailsignature\\emailsignature\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76DEE390-8FFA-420C-B073-F82736B77612}|EmailSignature\\EmailSignature.csproj|solutionrelative:emailsignature\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -24,10 +24,9 @@
               "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\bi78ws\\AppData\\Local\\Temp\\4381748a-af0a-46ef-aad7-ec1bc130032a_KitKatCalories.zip.32a\\KitKatCalories\\KitKatCalories\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\4381748a-af0a-46ef-aad7-ec1bc130032a_KitKatCalories.zip.32a\\KitKatCalories\\KitKatCalories\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\4381748a-af0a-46ef-aad7-ec1bc130032a_KitKatCalories.zip.32a\\KitKatCalories\\KitKatCalories\\Program.cs",
               "ToolTip": "C:\\Users\\bi78ws\\AppData\\Local\\Temp\\4381748a-af0a-46ef-aad7-ec1bc130032a_KitKatCalories.zip.32a\\KitKatCalories\\KitKatCalories\\Program.cs [Read Only]",
-              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\4381748a-af0a-46ef-aad7-ec1bc130032a_KitKatCalories.zip.32a\\KitKatCalories\\KitKatCalories\\Program.cs [Read Only]",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\4381748a-af0a-46ef-aad7-ec1bc130032a_KitKatCalories.zip.32a\\KitKatCalories\\KitKatCalories\\Program.cs [Read Only]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-30T11:17:06.582Z",
               "EditorCaption": " [Read Only]"
@@ -36,11 +35,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bi78ws\\Desktop\\Variables and Calculations Workshop Excercies\\Exercise 1\\EmailSignature\\EmailSignature\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\bi78ws\\Desktop\\Intro to Programming\\Sunderland-Uni-Intro-to-Programming\\Variables and Calculations Workshop Excercies\\Exercise 1\\EmailSignature\\EmailSignature\\Program.cs",
               "RelativeDocumentMoniker": "EmailSignature\\Program.cs",
-              "ToolTip": "C:\\Users\\bi78ws\\Desktop\\Variables and Calculations Workshop Excercies\\Exercise 1\\EmailSignature\\EmailSignature\\Program.cs",
+              "ToolTip": "C:\\Users\\bi78ws\\Desktop\\Intro to Programming\\Sunderland-Uni-Intro-to-Programming\\Variables and Calculations Workshop Excercies\\Exercise 1\\EmailSignature\\EmailSignature\\Program.cs",
               "RelativeToolTip": "EmailSignature\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-30T11:15:24.986Z",
               "EditorCaption": ""
